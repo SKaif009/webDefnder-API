@@ -1,0 +1,18 @@
+# Virtual environment (venv)
+venv/
+.env/
+.venv/
+
+# Distribution / Packaging
+dist/
+build/
+
+# Database files
+*.sqlite3
+*.db
+
+# Environment variables and secrets
+.env
+*.secret
+config.json
+secrets.json
